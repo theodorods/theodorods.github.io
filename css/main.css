@@ -38,6 +38,17 @@ Primary use:
 .container {max-width: 1200px;}
 
 
+.logo-row {
+  width: 250px;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 100%;
+  height: 150px;
+  text-align: center;
+}
+
 /*//////////////////////////////////////////////////////////////////
 [ rs Modal ]*/
 
