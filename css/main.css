@@ -37,6 +37,51 @@ Primary use:
 /*---------------------------------------------*/
 .container {max-width: 1200px;}
 
+
+/*//////////////////////////////////////////////////////////////////
+[ Navbar ]*/
+/*---------------------------------------------*/
+/* Style the navbar */
+#navbar {
+  overflow: hidden;
+  background-color: #fff;
+}
+
+/* Navbar links */
+#navbar a {
+  float: left;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+#navbar b {
+  float: right;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
 /*//////////////////////////////////////////////////////////////////
 [ rs Modal ]*/
 
