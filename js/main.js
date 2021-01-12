@@ -67,7 +67,7 @@
 }
 
     /*==================================================================
-    [ Navbar ]*/
+    [ Navbar ]
     window.onscroll = function() {myFunction()};
 
     // Get the navbar
@@ -84,6 +84,7 @@
             navbar.classList.remove("sticky")
         }
     }
+                    */
 
     /*==================================================================
     [ Modal ]*/
