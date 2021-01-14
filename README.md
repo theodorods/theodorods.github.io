@@ -1,2 +1,0 @@
-# theodorods.github.io
-HEDGR

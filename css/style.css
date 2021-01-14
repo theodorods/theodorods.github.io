@@ -82,6 +82,10 @@ header .logo
   background: #03a9f4;
   mix-blend-mode: overlay;
 }
+.tradingview-widget-container {
+  top: 40px;
+  margin-top: 0%;
+}
 .text
 {
   position: relative;
